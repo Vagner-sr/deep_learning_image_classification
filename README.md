@@ -9,7 +9,7 @@ The data is preprocessed by scaling it and splitting it into training, validatio
 ## Deep Model
 A deep learning model is built using TensorFlow. It consists of convolutional layers followed by max-pooling layers, a flatten layer, and densely connected layers. The model is trained using the training data and evaluated using the validation data.
 
-## Obs: Epoch=6 due lack of RAM and process power in local machine
+### Obs: Epoch=6 due lack of RAM and process power in local machine
 
 ## Evaluate Performance
 The performance of the trained model is evaluated using metrics such as precision, recall, and accuracy. Additionally, the model is tested with sample images to demonstrate its functionality.

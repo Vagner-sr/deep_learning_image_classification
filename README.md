@@ -1,4 +1,3 @@
----
 # Happy Sad Image Classification
 
 ## Introduction
@@ -18,5 +17,5 @@ Finally, the trained model is saved for future use.
 
 ## Conclusion
 This README provides an overview of the "Happy Sad Image Classification" project, demonstrating the process of loading, preprocessing, building, training, evaluating, testing, and saving a deep learning model for image classification using TensorFlow.
----
+
 
